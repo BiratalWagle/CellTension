@@ -4,3 +4,5 @@ First go to the Cellpose_Main file. This file will facilitate training the image
 
 The Cellpose_Displacement_SCA_2.ipynb file does the edge detection, and cell selection for 
 SINGLE CELL ABLATIION. 
+
+Cellpose_Displacement_New includes a new method of obtaining the vertexes and displacement. By far it is the most accurate method of the 3 Cellpose_Displacement Methods
